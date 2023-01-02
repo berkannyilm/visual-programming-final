@@ -1,0 +1,3974 @@
+[
+  {
+    "CityId": 1,
+    "DistrictTitle": "Seyhan"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Ceyhan"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Feke"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Karaisalı"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Karataş"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Kozan"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Pozantı"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Saimbeyli"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Tufanbeyli"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Yumurtalık"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Yüreğir"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Aladağ"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "İmamoğlu"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Sarıçam"
+  },
+  {
+    "CityId": 1,
+    "DistrictTitle": "Çukurova"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Adıyaman Merkez"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Besni"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Çelikhan"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Gerger"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Gölbaşı \/ Adıyaman"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Kahta"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Samsat"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Sincik"
+  },
+  {
+    "CityId": 2,
+    "DistrictTitle": "Tut"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Afyonkarahisar Merkez"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Bolvadin"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Çay"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Dazkırı"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Dinar"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Emirdağ"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "İhsaniye"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Sandıklı"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Sinanpaşa"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Sultandağı"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Şuhut"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Başmakçı"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Bayat \/ Afyonkarahisar"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "İscehisar"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Çobanlar"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Evciler"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Hocalar"
+  },
+  {
+    "CityId": 3,
+    "DistrictTitle": "Kızılören"
+  },
+  {
+    "CityId": 4,
+    "DistrictTitle": "Ağrı Merkez"
+  },
+  {
+    "CityId": 4,
+    "DistrictTitle": "Diyadin"
+  },
+  {
+    "CityId": 4,
+    "DistrictTitle": "Doğubayazıt"
+  },
+  {
+    "CityId": 4,
+    "DistrictTitle": "Eleşkirt"
+  },
+  {
+    "CityId": 4,
+    "DistrictTitle": "Hamur"
+  },
+  {
+    "CityId": 4,
+    "DistrictTitle": "Patnos"
+  },
+  {
+    "CityId": 4,
+    "DistrictTitle": "Taşlıçay"
+  },
+  {
+    "CityId": 4,
+    "DistrictTitle": "Tutak"
+  },
+  {
+    "CityId": 5,
+    "DistrictTitle": "Amasya Merkez"
+  },
+  {
+    "CityId": 5,
+    "DistrictTitle": "Göynücek"
+  },
+  {
+    "CityId": 5,
+    "DistrictTitle": "Gümüşhacıköy"
+  },
+  {
+    "CityId": 5,
+    "DistrictTitle": "Merzifon"
+  },
+  {
+    "CityId": 5,
+    "DistrictTitle": "Suluova"
+  },
+  {
+    "CityId": 5,
+    "DistrictTitle": "Taşova"
+  },
+  {
+    "CityId": 5,
+    "DistrictTitle": "Hamamözü"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Altındağ"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Ayaş"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Bala"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Beypazarı"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Çamlıdere"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Çankaya"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Çubuk"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Elmadağ"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Güdül"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Haymana"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Kalecik"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Kızılcahamam"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Nallıhan"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Polatlı"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Şereflikoçhisar"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Yenimahalle"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Gölbaşı \/ Ankara"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Keçiören"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Mamak"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Sincan"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Kazan"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Akyurt"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Etimesgut"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Evren"
+  },
+  {
+    "CityId": 6,
+    "DistrictTitle": "Pursaklar"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Akseki"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Alanya"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Antalya Merkez"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Elmalı"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Finike"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Gazipaşa"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Gündoğmuş"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Kaş"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Korkuteli"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Kumluca"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Manavgat"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Serik"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Demre"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "İbradı"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Kemer \/ Antalya"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Aksu \/ Antalya"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Döşemealtı"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Kepez"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Konyaaltı"
+  },
+  {
+    "CityId": 7,
+    "DistrictTitle": "Muratpaşa"
+  },
+  {
+    "CityId": 8,
+    "DistrictTitle": "Ardanuç"
+  },
+  {
+    "CityId": 8,
+    "DistrictTitle": "Arhavi"
+  },
+  {
+    "CityId": 8,
+    "DistrictTitle": "Artvin Merkez"
+  },
+  {
+    "CityId": 8,
+    "DistrictTitle": "Borçka"
+  },
+  {
+    "CityId": 8,
+    "DistrictTitle": "Hopa"
+  },
+  {
+    "CityId": 8,
+    "DistrictTitle": "Şavşat"
+  },
+  {
+    "CityId": 8,
+    "DistrictTitle": "Yusufeli"
+  },
+  {
+    "CityId": 8,
+    "DistrictTitle": "Murgul"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Aydın Merkez"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Bozdoğan"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Çine"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Germencik"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Karacasu"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Koçarlı"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Kuşadası"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Kuyucak"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Nazilli"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Söke"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Sultanhisar"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Yenipazar \/ Aydın"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Buharkent"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "İncirliova"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Karpuzlu"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Köşk"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Didim"
+  },
+  {
+    "CityId": 9,
+    "DistrictTitle": "Efeler"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Ayvalık"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Balıkesir Merkez"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Balya"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Bandırma"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Bigadiç"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Burhaniye"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Dursunbey"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Edremit \/ Balıkesir"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Erdek"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Gönen \/ Balıkesir"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Havran"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "İvrindi"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Kepsut"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Manyas"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Savaştepe"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Sındırgı"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Susurluk"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Marmara"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Gömeç"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Altıeylül"
+  },
+  {
+    "CityId": 10,
+    "DistrictTitle": "Karesi"
+  },
+  {
+    "CityId": 11,
+    "DistrictTitle": "Bilecik Merkez"
+  },
+  {
+    "CityId": 11,
+    "DistrictTitle": "Bozüyük"
+  },
+  {
+    "CityId": 11,
+    "DistrictTitle": "Gölpazarı"
+  },
+  {
+    "CityId": 11,
+    "DistrictTitle": "Osmaneli"
+  },
+  {
+    "CityId": 11,
+    "DistrictTitle": "Pazaryeri"
+  },
+  {
+    "CityId": 11,
+    "DistrictTitle": "Söğüt"
+  },
+  {
+    "CityId": 11,
+    "DistrictTitle": "Yenipazar \/ Bilecik"
+  },
+  {
+    "CityId": 11,
+    "DistrictTitle": "İnhisar"
+  },
+  {
+    "CityId": 12,
+    "DistrictTitle": "Bingöl Merkez"
+  },
+  {
+    "CityId": 12,
+    "DistrictTitle": "Genç"
+  },
+  {
+    "CityId": 12,
+    "DistrictTitle": "Karlıova"
+  },
+  {
+    "CityId": 12,
+    "DistrictTitle": "Kiğı"
+  },
+  {
+    "CityId": 12,
+    "DistrictTitle": "Solhan"
+  },
+  {
+    "CityId": 12,
+    "DistrictTitle": "Adaklı"
+  },
+  {
+    "CityId": 12,
+    "DistrictTitle": "Yayladere"
+  },
+  {
+    "CityId": 12,
+    "DistrictTitle": "Yedisu"
+  },
+  {
+    "CityId": 13,
+    "DistrictTitle": "Adilcevaz"
+  },
+  {
+    "CityId": 13,
+    "DistrictTitle": "Ahlat"
+  },
+  {
+    "CityId": 13,
+    "DistrictTitle": "Bitlis Merkez"
+  },
+  {
+    "CityId": 13,
+    "DistrictTitle": "Hizan"
+  },
+  {
+    "CityId": 13,
+    "DistrictTitle": "Mutki"
+  },
+  {
+    "CityId": 13,
+    "DistrictTitle": "Tatvan"
+  },
+  {
+    "CityId": 13,
+    "DistrictTitle": "Güroymak"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Bolu Merkez"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Gerede"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Göynük"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Kıbrıscık"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Mengen"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Mudurnu"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Seben"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Dörtdivan"
+  },
+  {
+    "CityId": 14,
+    "DistrictTitle": "Yeniçağa"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Ağlasun"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Bucak"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Burdur Merkez"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Gölhisar"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Tefenni"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Yeşilova"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Karamanlı"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Kemer \/ Burdur"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Altınyayla \/ Burdur"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Çavdır"
+  },
+  {
+    "CityId": 15,
+    "DistrictTitle": "Çeltikçi"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Gemlik"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "İnegöl"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "İznik"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Karacabey"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Keles"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Mudanya"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Mustafakemalpaşa"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Orhaneli"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Orhangazi"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Yenişehir \/ Bursa"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Büyükorhan"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Harmancık"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Nilüfer"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Osmangazi"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Yıldırım"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Gürsu"
+  },
+  {
+    "CityId": 16,
+    "DistrictTitle": "Kestel"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Ayvacık \/ Çanakkale"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Bayramiç"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Biga"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Bozcaada"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Çan"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Çanakkale Merkez"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Eceabat"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Ezine"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Gelibolu"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Gökçeada"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Lapseki"
+  },
+  {
+    "CityId": 17,
+    "DistrictTitle": "Yenice \/ Çanakkale"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Çankırı Merkez"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Çerkeş"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Eldivan"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Ilgaz"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Kurşunlu"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Orta"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Şabanözü"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Yapraklı"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Atkaracalar"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Kızılırmak"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Bayramören"
+  },
+  {
+    "CityId": 18,
+    "DistrictTitle": "Korgun"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Alaca"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Bayat \/ Çorum"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Çorum Merkez"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "İskilip"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Kargı"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Mecitözü"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Ortaköy \/ Çorum"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Osmancık"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Sungurlu"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Boğazkale"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Uğurludağ"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Dodurga"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Laçin"
+  },
+  {
+    "CityId": 19,
+    "DistrictTitle": "Oğuzlar"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Acıpayam"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Buldan"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Çal"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Çameli"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Çardak"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Çivril"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Denizli Merkez"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Güney"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Kale \/ Denizli"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Sarayköy"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Tavas"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Babadağ"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Bekilli"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Honaz"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Serinhisar"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Pamukkale"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Baklan"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Beyağaç"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Bozkurt \/ Denizli"
+  },
+  {
+    "CityId": 20,
+    "DistrictTitle": "Merkezefendi"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Bismil"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Çermik"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Çınar"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Çüngüş"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Dicle"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Diyarbakır Merkez"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Ergani"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Hani"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Hazro"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Kulp"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Lice"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Silvan"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Eğil"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Kocaköy"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Bağlar"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Kayapınar"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Sur"
+  },
+  {
+    "CityId": 21,
+    "DistrictTitle": "Yenişehir \/ Diyarbakır"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "Edirne Merkez"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "Enez"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "Havsa"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "İpsala"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "Keşan"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "Lalapaşa"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "Meriç"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "Uzunköprü"
+  },
+  {
+    "CityId": 22,
+    "DistrictTitle": "Süloğlu"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Ağın"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Baskil"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Elazığ Merkez"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Karakoçan"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Keban"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Maden"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Palu"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Sivrice"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Arıcak"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Kovancılar"
+  },
+  {
+    "CityId": 23,
+    "DistrictTitle": "Alacakaya"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "Çayırlı"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "Erzincan Merkez"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "İliç"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "Kemah"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "Kemaliye"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "Refahiye"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "Tercan"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "Üzümlü"
+  },
+  {
+    "CityId": 24,
+    "DistrictTitle": "Otlukbeli"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Aşkale"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Çat"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Erzurum Merkez"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Hınıs"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Horasan"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "İspir"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Karayazı"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Narman"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Oltu"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Olur"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Pasinler"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Şenkaya"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Tekman"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Tortum"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Karaçoban"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Uzundere"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Pazaryolu"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Aziziye"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Köprüköy"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Palandöken"
+  },
+  {
+    "CityId": 25,
+    "DistrictTitle": "Yakutiye"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Çifteler"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Eskişehir Merkez"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Mahmudiye"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Mihalıççık"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Sarıcakaya"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Seyitgazi"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Sivrihisar"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Alpu"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Beylikova"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "İnönü"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Günyüzü"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Han"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Mihalgazi"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Odunpazarı"
+  },
+  {
+    "CityId": 26,
+    "DistrictTitle": "Tepebaşı"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "Araban"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "İslahiye"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "Nizip"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "Oğuzeli"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "Yavuzeli"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "Şahinbey"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "Şehitkamil"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "Karkamış"
+  },
+  {
+    "CityId": 27,
+    "DistrictTitle": "Nurdağı"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Alucra"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Bulancak"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Dereli"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Espiye"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Eynesil"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Giresun Merkez"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Görele"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Keşap"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Şebinkarahisar"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Tirebolu"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Piraziz"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Yağlıdere"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Çamoluk"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Çanakçı"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Doğankent"
+  },
+  {
+    "CityId": 28,
+    "DistrictTitle": "Güce"
+  },
+  {
+    "CityId": 29,
+    "DistrictTitle": "Gümüşhane Merkez"
+  },
+  {
+    "CityId": 29,
+    "DistrictTitle": "Kelkit"
+  },
+  {
+    "CityId": 29,
+    "DistrictTitle": "Şiran"
+  },
+  {
+    "CityId": 29,
+    "DistrictTitle": "Torul"
+  },
+  {
+    "CityId": 29,
+    "DistrictTitle": "Köse"
+  },
+  {
+    "CityId": 29,
+    "DistrictTitle": "Kürtün"
+  },
+  {
+    "CityId": 30,
+    "DistrictTitle": "Çukurca"
+  },
+  {
+    "CityId": 30,
+    "DistrictTitle": "Hakkari Merkez"
+  },
+  {
+    "CityId": 30,
+    "DistrictTitle": "Şemdinli"
+  },
+  {
+    "CityId": 30,
+    "DistrictTitle": "Yüksekova"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Altınözü"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Dörtyol"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Hassa"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Hatay Merkez"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "İskenderun"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Kırıkhan"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Reyhanlı"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Samandağ"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Yayladağı"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Erzin"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Belen"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Kumlu"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Antakya"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Arsuz"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Defne"
+  },
+  {
+    "CityId": 31,
+    "DistrictTitle": "Payas"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Atabey"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Eğirdir"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Gelendost"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Isparta Merkez"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Keçiborlu"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Senirkent"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Sütçüler"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Şarkikaraağaç"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Uluborlu"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Yalvaç"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Aksu \/ Isparta"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Gönen \/ Isparta"
+  },
+  {
+    "CityId": 32,
+    "DistrictTitle": "Yenişarbademli"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Anamur"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Erdemli"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Gülnar"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Mersin Merkez"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Mut"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Silifke"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Tarsus"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Aydıncık \/ Mersin"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Bozyazı"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Çamlıyayla"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Akdeniz"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Mezitli"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Toroslar"
+  },
+  {
+    "CityId": 33,
+    "DistrictTitle": "Yenişehir \/ Mersin"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Adalar"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Bakırköy"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Beşiktaş"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Beykoz"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Beyoğlu"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Çatalca"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Eminönü"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Eyüp"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Fatih"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Gaziosmanpaşa"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Kadıköy"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Kartal"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Sarıyer"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Silivri"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Şile"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Şişli"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Üsküdar"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Zeytinburnu"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Büyükçekmece"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Kağıthane"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Küçükçekmece"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Pendik"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Ümraniye"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Bayrampaşa"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Avcılar"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Bağcılar"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Bahçelievler"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Güngören"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Maltepe"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Sultanbeyli"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Tuzla"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Esenler"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Arnavutköy"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Ataşehir"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Başakşehir"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Beylikdüzü"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Çekmeköy"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Esenyurt"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Sancaktepe"
+  },
+  {
+    "CityId": 34,
+    "DistrictTitle": "Sultangazi"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Aliağa"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Bayındır"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Bergama"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Bornova"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Çeşme"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Dikili"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Foça"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Karaburun"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Karşıyaka"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Kemalpaşa"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Kınık"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Kiraz"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Menemen"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Ödemiş"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Seferihisar"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Selçuk"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Tire"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Torbalı"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Urla"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Beydağ"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Buca"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Konak"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Menderes"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Balçova"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Çiğli"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Gaziemir"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Narlıdere"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Güzelbahçe"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Bayraklı"
+  },
+  {
+    "CityId": 35,
+    "DistrictTitle": "Karabağlar"
+  },
+  {
+    "CityId": 36,
+    "DistrictTitle": "Arpaçay"
+  },
+  {
+    "CityId": 36,
+    "DistrictTitle": "Digor"
+  },
+  {
+    "CityId": 36,
+    "DistrictTitle": "Kağızman"
+  },
+  {
+    "CityId": 36,
+    "DistrictTitle": "Kars Merkez"
+  },
+  {
+    "CityId": 36,
+    "DistrictTitle": "Sarıkamış"
+  },
+  {
+    "CityId": 36,
+    "DistrictTitle": "Selim"
+  },
+  {
+    "CityId": 36,
+    "DistrictTitle": "Susuz"
+  },
+  {
+    "CityId": 36,
+    "DistrictTitle": "Akyaka"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Abana"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Araç"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Azdavay"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Bozkurt \/ Kastamonu"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Cide"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Çatalzeytin"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Daday"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Devrekani"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "İnebolu"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Kastamonu Merkez"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Küre"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Taşköprü"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Tosya"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "İhsangazi"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Pınarbaşı \/ Kastamonu"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Şenpazar"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Ağlı"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Doğanyurt"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Hanönü"
+  },
+  {
+    "CityId": 37,
+    "DistrictTitle": "Seydiler"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Bünyan"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Develi"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Felahiye"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "İncesu"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Pınarbaşı \/ Kayseri"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Sarıoğlan"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Sarız"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Tomarza"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Yahyalı"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Yeşilhisar"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Akkışla"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Talas"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Kocasinan"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Melikgazi"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Hacılar"
+  },
+  {
+    "CityId": 38,
+    "DistrictTitle": "Özvatan"
+  },
+  {
+    "CityId": 39,
+    "DistrictTitle": "Babaeski"
+  },
+  {
+    "CityId": 39,
+    "DistrictTitle": "Demirköy"
+  },
+  {
+    "CityId": 39,
+    "DistrictTitle": "Kırklareli Merkez"
+  },
+  {
+    "CityId": 39,
+    "DistrictTitle": "Kofçaz"
+  },
+  {
+    "CityId": 39,
+    "DistrictTitle": "Lüleburgaz"
+  },
+  {
+    "CityId": 39,
+    "DistrictTitle": "Pehlivanköy"
+  },
+  {
+    "CityId": 39,
+    "DistrictTitle": "Pınarhisar"
+  },
+  {
+    "CityId": 39,
+    "DistrictTitle": "Vize"
+  },
+  {
+    "CityId": 40,
+    "DistrictTitle": "Çiçekdağı"
+  },
+  {
+    "CityId": 40,
+    "DistrictTitle": "Kaman"
+  },
+  {
+    "CityId": 40,
+    "DistrictTitle": "Kırşehir Merkez"
+  },
+  {
+    "CityId": 40,
+    "DistrictTitle": "Mucur"
+  },
+  {
+    "CityId": 40,
+    "DistrictTitle": "Akpınar"
+  },
+  {
+    "CityId": 40,
+    "DistrictTitle": "Akçakent"
+  },
+  {
+    "CityId": 40,
+    "DistrictTitle": "Boztepe"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Gebze"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Gölcük"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Kandıra"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Karamürsel"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Kocaeli Merkez"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Körfez"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Derince"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Başiskele"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Çayırova"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Darıca"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Dilovası"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "İzmit"
+  },
+  {
+    "CityId": 41,
+    "DistrictTitle": "Kartepe"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Akşehir"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Beyşehir"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Bozkır"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Cihanbeyli"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Çumra"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Doğanhisar"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Ereğli \/ Konya"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Hadim"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Ilgın"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Kadınhanı"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Karapınar"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Kulu"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Sarayönü"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Seydişehir"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Yunak"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Akören"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Altınekin"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Derebucak"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Hüyük"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Karatay"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Meram"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Selçuklu"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Taşkent"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Ahırlı"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Çeltik"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Derbent"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Emirgazi"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Güneysınır"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Halkapınar"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Tuzlukçu"
+  },
+  {
+    "CityId": 42,
+    "DistrictTitle": "Yalıhüyük"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Altıntaş"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Domaniç"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Emet"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Gediz"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Kütahya Merkez"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Simav"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Tavşanlı"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Aslanapa"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Dumlupınar"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Hisarcık"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Şaphane"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Çavdarhisar"
+  },
+  {
+    "CityId": 43,
+    "DistrictTitle": "Pazarlar"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Akçadağ"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Arapgir"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Arguvan"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Darende"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Doğanşehir"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Hekimhan"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Malatya Merkez"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Pütürge"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Yeşilyurt \/ Malatya"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Battalgazi"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Doğanyol"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Kale \/ Malatya"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Kuluncak"
+  },
+  {
+    "CityId": 44,
+    "DistrictTitle": "Yazıhan"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Akhisar"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Alaşehir"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Demirci"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Gördes"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Kırkağaç"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Kula"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Manisa Merkez"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Salihli"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Sarıgöl"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Saruhanlı"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Selendi"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Soma"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Turgutlu"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Ahmetli"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Gölmarmara"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Köprübaşı \/ Manisa"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Şehzadeler"
+  },
+  {
+    "CityId": 45,
+    "DistrictTitle": "Yunusemre"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Afşin"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Andırın"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Elbistan"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Göksun"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Kahramanmaraş Merkez"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Pazarcık"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Türkoğlu"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Çağlayancerit"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Ekinözü"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Nurhak"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Dulkadiroğlu"
+  },
+  {
+    "CityId": 46,
+    "DistrictTitle": "Onikişubat"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Derik"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Kızıltepe"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Mardin Merkez"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Mazıdağı"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Midyat"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Nusaybin"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Ömerli"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Savur"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Dargeçit"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Yeşilli"
+  },
+  {
+    "CityId": 47,
+    "DistrictTitle": "Artuklu"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Bodrum"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Datça"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Fethiye"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Köyceğiz"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Marmaris"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Milas"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Muğla Merkez"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Ula"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Yatağan"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Dalaman"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Ortaca"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Kavaklıdere"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Menteşe"
+  },
+  {
+    "CityId": 48,
+    "DistrictTitle": "Seydikemer"
+  },
+  {
+    "CityId": 49,
+    "DistrictTitle": "Bulanık"
+  },
+  {
+    "CityId": 49,
+    "DistrictTitle": "Malazgirt"
+  },
+  {
+    "CityId": 49,
+    "DistrictTitle": "Muş Merkez"
+  },
+  {
+    "CityId": 49,
+    "DistrictTitle": "Varto"
+  },
+  {
+    "CityId": 49,
+    "DistrictTitle": "Hasköy"
+  },
+  {
+    "CityId": 49,
+    "DistrictTitle": "Korkut"
+  },
+  {
+    "CityId": 50,
+    "DistrictTitle": "Avanos"
+  },
+  {
+    "CityId": 50,
+    "DistrictTitle": "Derinkuyu"
+  },
+  {
+    "CityId": 50,
+    "DistrictTitle": "Gülşehir"
+  },
+  {
+    "CityId": 50,
+    "DistrictTitle": "Hacıbektaş"
+  },
+  {
+    "CityId": 50,
+    "DistrictTitle": "Kozaklı"
+  },
+  {
+    "CityId": 50,
+    "DistrictTitle": "Nevşehir Merkez"
+  },
+  {
+    "CityId": 50,
+    "DistrictTitle": "Ürgüp"
+  },
+  {
+    "CityId": 50,
+    "DistrictTitle": "Acıgöl"
+  },
+  {
+    "CityId": 51,
+    "DistrictTitle": "Bor"
+  },
+  {
+    "CityId": 51,
+    "DistrictTitle": "Çamardı"
+  },
+  {
+    "CityId": 51,
+    "DistrictTitle": "Niğde Merkez"
+  },
+  {
+    "CityId": 51,
+    "DistrictTitle": "Ulukışla"
+  },
+  {
+    "CityId": 51,
+    "DistrictTitle": "Altunhisar"
+  },
+  {
+    "CityId": 51,
+    "DistrictTitle": "Çiftlik"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Akkuş"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Aybastı"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Fatsa"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Gölköy"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Korgan"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Kumru"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Mesudiye"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Ordu Merkez"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Perşembe"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Ulubey \/ Ordu"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Ünye"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Gülyalı"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Gürgentepe"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Çamaş"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Çatalpınar"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Çaybaşı"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "İkizce"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Kabadüz"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Kabataş"
+  },
+  {
+    "CityId": 52,
+    "DistrictTitle": "Altınordu"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Ardeşen"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Çamlıhemşin"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Çayeli"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Fındıklı"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "İkizdere"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Kalkandere"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Pazar \/ Rize"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Rize Merkez"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Güneysu"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Derepazarı"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "Hemşin"
+  },
+  {
+    "CityId": 53,
+    "DistrictTitle": "İyidere"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Akyazı"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Geyve"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Hendek"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Karasu"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Kaynarca"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Sakarya Merkez"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Sapanca"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Kocaali"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Pamukova"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Taraklı"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Ferizli"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Karapürçek"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Söğütlü"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Adapazarı"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Arifiye"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Erenler"
+  },
+  {
+    "CityId": 54,
+    "DistrictTitle": "Serdivan"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Alaçam"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Bafra"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Çarşamba"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Havza"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Kavak"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Ladik"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Samsun Merkez"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Terme"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Vezirköprü"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Asarcık"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "19 Mayıs"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Salıpazarı"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Tekkeköy"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Ayvacık \/ Samsun"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Yakakent"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Atakum"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "Canik"
+  },
+  {
+    "CityId": 55,
+    "DistrictTitle": "İlkadım"
+  },
+  {
+    "CityId": 56,
+    "DistrictTitle": "Baykan"
+  },
+  {
+    "CityId": 56,
+    "DistrictTitle": "Eruh"
+  },
+  {
+    "CityId": 56,
+    "DistrictTitle": "Kurtalan"
+  },
+  {
+    "CityId": 56,
+    "DistrictTitle": "Pervari"
+  },
+  {
+    "CityId": 56,
+    "DistrictTitle": "Siirt Merkez"
+  },
+  {
+    "CityId": 56,
+    "DistrictTitle": "Şirvan"
+  },
+  {
+    "CityId": 56,
+    "DistrictTitle": "Tillo"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Ayancık"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Boyabat"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Durağan"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Erfelek"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Gerze"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Sinop Merkez"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Türkeli"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Dikmen"
+  },
+  {
+    "CityId": 57,
+    "DistrictTitle": "Saraydüzü"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Divriği"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Gemerek"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Gürün"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Hafik"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "İmranlı"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Kangal"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Koyulhisar"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Sivas Merkez"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Suşehri"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Şarkışla"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Yıldızeli"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Zara"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Akıncılar"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Altınyayla \/ Sivas"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Doğanşar"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Gölova"
+  },
+  {
+    "CityId": 58,
+    "DistrictTitle": "Ulaş"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Çerkezköy"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Çorlu"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Hayrabolu"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Malkara"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Muratlı"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Saray \/ Tekirdağ"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Şarköy"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Tekirdağ Merkez"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Marmaraereğlisi"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Ergene"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Kapaklı"
+  },
+  {
+    "CityId": 59,
+    "DistrictTitle": "Süleymanpaşa"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Almus"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Artova"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Erbaa"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Niksar"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Reşadiye"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Tokat Merkez"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Turhal"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Zile"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Pazar \/ Tokat"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Yeşilyurt \/ Tokat"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Başçiftlik"
+  },
+  {
+    "CityId": 60,
+    "DistrictTitle": "Sulusaray"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Akçaabat"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Araklı"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Arsin"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Çaykara"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Maçka"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Of"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Sürmene"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Tonya"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Trabzon Merkez"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Vakfıkebir"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Yomra"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Beşikdüzü"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Şalpazarı"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Çarşıbaşı"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Dernekpazarı"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Düzköy"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Hayrat"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Köprübaşı \/ Trabzon"
+  },
+  {
+    "CityId": 61,
+    "DistrictTitle": "Ortahisar"
+  },
+  {
+    "CityId": 62,
+    "DistrictTitle": "Çemişgezek"
+  },
+  {
+    "CityId": 62,
+    "DistrictTitle": "Hozat"
+  },
+  {
+    "CityId": 62,
+    "DistrictTitle": "Mazgirt"
+  },
+  {
+    "CityId": 62,
+    "DistrictTitle": "Nazımiye"
+  },
+  {
+    "CityId": 62,
+    "DistrictTitle": "Ovacık \/ Tunceli"
+  },
+  {
+    "CityId": 62,
+    "DistrictTitle": "Pertek"
+  },
+  {
+    "CityId": 62,
+    "DistrictTitle": "Pülümür"
+  },
+  {
+    "CityId": 62,
+    "DistrictTitle": "Tunceli Merkez"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Akçakale"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Birecik"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Bozova"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Ceylanpınar"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Halfeti"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Hilvan"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Siverek"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Suruç"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Şanlıurfa Merkez"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Viranşehir"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Harran"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Eyyübiye"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Haliliye"
+  },
+  {
+    "CityId": 63,
+    "DistrictTitle": "Karaköprü"
+  },
+  {
+    "CityId": 64,
+    "DistrictTitle": "Banaz"
+  },
+  {
+    "CityId": 64,
+    "DistrictTitle": "Eşme"
+  },
+  {
+    "CityId": 64,
+    "DistrictTitle": "Karahallı"
+  },
+  {
+    "CityId": 64,
+    "DistrictTitle": "Sivaslı"
+  },
+  {
+    "CityId": 64,
+    "DistrictTitle": "Ulubey \/ Uşak"
+  },
+  {
+    "CityId": 64,
+    "DistrictTitle": "Uşak Merkez"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Başkale"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Çatak"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Erciş"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Gevaş"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Gürpınar"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Muradiye"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Özalp"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Van Merkez"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Bahçesaray"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Çaldıran"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Edremit \/ Van"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Saray \/ Van"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "İpekyolu"
+  },
+  {
+    "CityId": 65,
+    "DistrictTitle": "Tuşba"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Akdağmadeni"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Boğazlıyan"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Çayıralan"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Çekerek"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Sarıkaya"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Sorgun"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Şefaatli"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Yerköy"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Yozgat Merkez"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Aydıncık \/ Yozgat"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Çandır"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Kadışehri"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Saraykent"
+  },
+  {
+    "CityId": 66,
+    "DistrictTitle": "Yenifakılı"
+  },
+  {
+    "CityId": 67,
+    "DistrictTitle": "Çaycuma"
+  },
+  {
+    "CityId": 67,
+    "DistrictTitle": "Devrek"
+  },
+  {
+    "CityId": 67,
+    "DistrictTitle": "Ereğli \/ Zonguldak"
+  },
+  {
+    "CityId": 67,
+    "DistrictTitle": "Zonguldak Merkez"
+  },
+  {
+    "CityId": 67,
+    "DistrictTitle": "Alaplı"
+  },
+  {
+    "CityId": 67,
+    "DistrictTitle": "Gökçebey"
+  },
+  {
+    "CityId": 67,
+    "DistrictTitle": "Kilimli"
+  },
+  {
+    "CityId": 67,
+    "DistrictTitle": "Kozlu"
+  },
+  {
+    "CityId": 68,
+    "DistrictTitle": "Aksaray Merkez"
+  },
+  {
+    "CityId": 68,
+    "DistrictTitle": "Ortaköy \/ Aksaray"
+  },
+  {
+    "CityId": 68,
+    "DistrictTitle": "Ağaçören"
+  },
+  {
+    "CityId": 68,
+    "DistrictTitle": "Güzelyurt"
+  },
+  {
+    "CityId": 68,
+    "DistrictTitle": "Sarıyahşi"
+  },
+  {
+    "CityId": 68,
+    "DistrictTitle": "Eskil"
+  },
+  {
+    "CityId": 68,
+    "DistrictTitle": "Gülağaç"
+  },
+  {
+    "CityId": 69,
+    "DistrictTitle": "Bayburt Merkez"
+  },
+  {
+    "CityId": 69,
+    "DistrictTitle": "Aydıntepe"
+  },
+  {
+    "CityId": 69,
+    "DistrictTitle": "Demirözü"
+  },
+  {
+    "CityId": 70,
+    "DistrictTitle": "Ermenek"
+  },
+  {
+    "CityId": 70,
+    "DistrictTitle": "Karaman Merkez"
+  },
+  {
+    "CityId": 70,
+    "DistrictTitle": "Ayrancı"
+  },
+  {
+    "CityId": 70,
+    "DistrictTitle": "Kazımkarabekir"
+  },
+  {
+    "CityId": 70,
+    "DistrictTitle": "Başyayla"
+  },
+  {
+    "CityId": 70,
+    "DistrictTitle": "Sarıveliler"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Delice"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Keskin"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Kırıkkale Merkez"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Sulakyurt"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Bahşili"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Balışeyh"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Çelebi"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Karakeçili"
+  },
+  {
+    "CityId": 71,
+    "DistrictTitle": "Yahşihan"
+  },
+  {
+    "CityId": 72,
+    "DistrictTitle": "Batman Merkez"
+  },
+  {
+    "CityId": 72,
+    "DistrictTitle": "Beşiri"
+  },
+  {
+    "CityId": 72,
+    "DistrictTitle": "Gercüş"
+  },
+  {
+    "CityId": 72,
+    "DistrictTitle": "Kozluk"
+  },
+  {
+    "CityId": 72,
+    "DistrictTitle": "Sason"
+  },
+  {
+    "CityId": 72,
+    "DistrictTitle": "Hasankeyf"
+  },
+  {
+    "CityId": 73,
+    "DistrictTitle": "Beytüşşebap"
+  },
+  {
+    "CityId": 73,
+    "DistrictTitle": "Cizre"
+  },
+  {
+    "CityId": 73,
+    "DistrictTitle": "İdil"
+  },
+  {
+    "CityId": 73,
+    "DistrictTitle": "Silopi"
+  },
+  {
+    "CityId": 73,
+    "DistrictTitle": "Şırnak Merkez"
+  },
+  {
+    "CityId": 73,
+    "DistrictTitle": "Uludere"
+  },
+  {
+    "CityId": 73,
+    "DistrictTitle": "Güçlükonak"
+  },
+  {
+    "CityId": 74,
+    "DistrictTitle": "Bartın Merkez"
+  },
+  {
+    "CityId": 74,
+    "DistrictTitle": "Kurucaşile"
+  },
+  {
+    "CityId": 74,
+    "DistrictTitle": "Ulus"
+  },
+  {
+    "CityId": 74,
+    "DistrictTitle": "Amasra"
+  },
+  {
+    "CityId": 75,
+    "DistrictTitle": "Ardahan Merkez"
+  },
+  {
+    "CityId": 75,
+    "DistrictTitle": "Çıldır"
+  },
+  {
+    "CityId": 75,
+    "DistrictTitle": "Göle"
+  },
+  {
+    "CityId": 75,
+    "DistrictTitle": "Hanak"
+  },
+  {
+    "CityId": 75,
+    "DistrictTitle": "Posof"
+  },
+  {
+    "CityId": 75,
+    "DistrictTitle": "Damal"
+  },
+  {
+    "CityId": 76,
+    "DistrictTitle": "Aralık"
+  },
+  {
+    "CityId": 76,
+    "DistrictTitle": "Iğdır Merkez"
+  },
+  {
+    "CityId": 76,
+    "DistrictTitle": "Tuzluca"
+  },
+  {
+    "CityId": 76,
+    "DistrictTitle": "Karakoyunlu"
+  },
+  {
+    "CityId": 77,
+    "DistrictTitle": "Yalova Merkez"
+  },
+  {
+    "CityId": 77,
+    "DistrictTitle": "Altınova"
+  },
+  {
+    "CityId": 77,
+    "DistrictTitle": "Armutlu"
+  },
+  {
+    "CityId": 77,
+    "DistrictTitle": "Çınarcık"
+  },
+  {
+    "CityId": 77,
+    "DistrictTitle": "Çiftlikköy"
+  },
+  {
+    "CityId": 77,
+    "DistrictTitle": "Termal"
+  },
+  {
+    "CityId": 78,
+    "DistrictTitle": "Eflani"
+  },
+  {
+    "CityId": 78,
+    "DistrictTitle": "Eskipazar"
+  },
+  {
+    "CityId": 78,
+    "DistrictTitle": "Karabük Merkez"
+  },
+  {
+    "CityId": 78,
+    "DistrictTitle": "Ovacık \/ Karabük"
+  },
+  {
+    "CityId": 78,
+    "DistrictTitle": "Safranbolu"
+  },
+  {
+    "CityId": 78,
+    "DistrictTitle": "Yenice \/ Karabük"
+  },
+  {
+    "CityId": 79,
+    "DistrictTitle": "Kilis Merkez"
+  },
+  {
+    "CityId": 79,
+    "DistrictTitle": "Elbeyli"
+  },
+  {
+    "CityId": 79,
+    "DistrictTitle": "Musabeyli"
+  },
+  {
+    "CityId": 79,
+    "DistrictTitle": "Polateli"
+  },
+  {
+    "CityId": 80,
+    "DistrictTitle": "Bahçe"
+  },
+  {
+    "CityId": 80,
+    "DistrictTitle": "Kadirli"
+  },
+  {
+    "CityId": 80,
+    "DistrictTitle": "Osmaniye Merkez"
+  },
+  {
+    "CityId": 80,
+    "DistrictTitle": "Düziçi"
+  },
+  {
+    "CityId": 80,
+    "DistrictTitle": "Hasanbeyli"
+  },
+  {
+    "CityId": 80,
+    "DistrictTitle": "Sumbas"
+  },
+  {
+    "CityId": 80,
+    "DistrictTitle": "Toprakkale"
+  },
+  {
+    "CityId": 81,
+    "DistrictTitle": "Akçakoca"
+  },
+  {
+    "CityId": 81,
+    "DistrictTitle": "Düzce Merkez"
+  },
+  {
+    "CityId": 81,
+    "DistrictTitle": "Yığılca"
+  },
+  {
+    "CityId": 81,
+    "DistrictTitle": "Cumayeri"
+  },
+  {
+    "CityId": 81,
+    "DistrictTitle": "Gölyaka"
+  },
+  {
+    "CityId": 81,
+    "DistrictTitle": "Çilimli"
+  },
+  {
+    "CityId": 81,
+    "DistrictTitle": "Gümüşova"
+  },
+  {
+    "CityId": 81,
+    "DistrictTitle": "Kaynaşlı"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "Id": 1,
+    "CityName": "ADANA"
+  },
+  {
+    "Id": 2,
+    "CityName": "ADIYAMAN"
+  },
+  {
+    "Id": 3,
+    "CityName": "AFYONKARAHİSAR"
+  },
+  {
+    "Id": 4,
+    "CityName": "AĞRI"
+  },
+  {
+    "Id": 68,
+    "CityName": "AKSARAY"
+  },
+  {
+    "Id": 5,
+    "CityName": "AMASYA"
+  },
+  {
+    "Id": 6,
+    "CityName": "ANKARA"
+  },
+  {
+    "Id": 7,
+    "CityName": "ANTALYA"
+  },
+  {
+    "Id": 75,
+    "CityName": "ARDAHAN"
+  },
+  {
+    "Id": 8,
+    "CityName": "ARTVİN"
+  },
+  {
+    "Id": 9,
+    "CityName": "AYDIN"
+  },
+  {
+    "Id": 10,
+    "CityName": "BALIKESİR"
+  },
+  {
+    "Id": 74,
+    "CityName": "BARTIN"
+  },
+  {
+    "Id": 72,
+    "CityName": "BATMAN"
+  },
+  {
+    "Id": 69,
+    "CityName": "BAYBURT"
+  },
+  {
+    "Id": 11,
+    "CityName": "BİLECİK"
+  },
+  {
+    "Id": 12,
+    "CityName": "BİNGÖL"
+  },
+  {
+    "Id": 13,
+    "CityName": "BİTLİS"
+  },
+  {
+    "Id": 14,
+    "CityName": "BOLU"
+  },
+  {
+    "Id": 15,
+    "CityName": "BURDUR"
+  },
+  {
+    "Id": 16,
+    "CityName": "BURSA"
+  },
+  {
+    "Id": 17,
+    "CityName": "ÇANAKKALE"
+  },
+  {
+    "Id": 18,
+    "CityName": "ÇANKIRI"
+  },
+  {
+    "Id": 19,
+    "CityName": "ÇORUM"
+  },
+  {
+    "Id": 20,
+    "CityName": "DENİZLİ"
+  },
+  {
+    "Id": 21,
+    "CityName": "DİYARBAKIR"
+  },
+  {
+    "Id": 81,
+    "CityName": "DÜZCE"
+  },
+  {
+    "Id": 22,
+    "CityName": "EDİRNE"
+  },
+  {
+    "Id": 23,
+    "CityName": "ELAZIĞ"
+  },
+  {
+    "Id": 24,
+    "CityName": "ERZİNCAN"
+  },
+  {
+    "Id": 25,
+    "CityName": "ERZURUM"
+  },
+  {
+    "Id": 26,
+    "CityName": "ESKİŞEHİR"
+  },
+  {
+    "Id": 27,
+    "CityName": "GAZİANTEP"
+  },
+  {
+    "Id": 28,
+    "CityName": "GİRESUN"
+  },
+  {
+    "Id": 29,
+    "CityName": "GÜMÜŞHANE"
+  },
+  {
+    "Id": 30,
+    "CityName": "HAKKARİ"
+  },
+  {
+    "Id": 31,
+    "CityName": "HATAY"
+  },
+  {
+    "Id": 76,
+    "CityName": "IĞDIR"
+  },
+  {
+    "Id": 32,
+    "CityName": "ISPARTA"
+  },
+  {
+    "Id": 34,
+    "CityName": "İSTANBUL"
+  },
+  {
+    "Id": 35,
+    "CityName": "İZMİR"
+  },
+  {
+    "Id": 36,
+    "CityName": "KAHRAMANMARAŞ"
+  },
+  {
+    "Id": 78,
+    "CityName": "KARABüK"
+  },
+  {
+    "Id": 70,
+    "CityName": "KARAMAN"
+  },
+  {
+    "Id": 36,
+    "CityName": "KARS"
+  },
+  {
+    "Id": 37,
+    "CityName": "KASTAMONU"
+  },
+  {
+    "Id": 38,
+    "CityName": "KAYSERİ"
+  },
+  {
+    "Id": 39,
+    "CityName": "KIRKLARELİ"
+  },
+  {
+    "Id": 71,
+    "CityName": "KIRKLARELİ"
+  },
+  {
+    "Id": 40,
+    "CityName": "KIRŞEHİR"
+  },
+  {
+    "Id": 79,
+    "CityName": "KİLİS"
+  },
+  {
+    "Id": 41,
+    "CityName": "KOCAELİ"
+  },
+  {
+    "Id": 42,
+    "CityName": "KONYA"
+  },
+  {
+    "Id": 43,
+    "CityName": "KÜTAHYA"
+  },
+  {
+    "Id": 44,
+    "CityName": "MALATYA"
+  },
+  {
+    "Id": 45,
+    "CityName": "MANİSA"
+  },
+  {
+    "Id": 47,
+    "CityName": "MARDİN"
+  },
+  {
+    "Id": 33,
+    "CityName": "MERSİN"
+  },
+  {
+    "Id": 48,
+    "CityName": "MUĞLA"
+  },
+  {
+    "Id": 49,
+    "CityName": "MUŞ"
+  },
+  {
+    "Id": 50,
+    "CityName": "NEVŞEHİR"
+  },
+  {
+    "Id": 51,
+    "CityName": "NİĞDE"
+  },
+  {
+    "Id": 52,
+    "CityName": "ORDU"
+  },
+  {
+    "Id": 80,
+    "CityName": "OSMANİYE"
+  },
+  {
+    "Id": 53,
+    "CityName": "RİZE"
+  },
+  {
+    "Id": 54,
+    "CityName": "SAKARYA"
+  },
+  {
+    "Id": 55,
+    "CityName": "SAMSUN"
+  },
+  {
+    "Id": 56,
+    "CityName": "SİİRT"
+  },
+  {
+    "Id": 57,
+    "CityName": "SİNOP"
+  },
+  {
+    "Id": 58,
+    "CityName": "SİVAS"
+  },
+  {
+    "Id": 63,
+    "CityName": "ŞANLIURFA"
+  },
+  {
+    "Id": 73,
+    "CityName": "ŞIRNAK"
+  },
+  {
+    "Id": 59,
+    "CityName": "TEKİRDAĞ"
+  },
+  {
+    "Id": 60,
+    "CityName": "TOKAT"
+  },
+  {
+    "Id": 61,
+    "CityName": "TRABZON"
+  },
+  {
+    "Id": 62,
+    "CityName": "TUNCELİ"
+  },
+  {
+    "Id": 64,
+    "CityName": "UŞAK"
+  },
+  {
+    "Id": 65,
+    "CityName": "VAN"
+  },
+  {
+    "Id": 77,
+    "CityName": "YALOVA"
+  },
+  {
+    "Id": 66,
+    "CityName": "YOZGAT"
+  },
+  {
+    "Id": 67,
+    "CityName": "ZONGULDAK"
+  }
+]
